@@ -21,7 +21,7 @@ import * as filters from './filters' // global filters
 
 /**
  * If you don't want to use mock-server
- * you want to use MockJs for mock api
+ * you want to use MockJs for mock api啊手动阀手动阀
  * you can execute: mockXHR()
  *
  * Currently MockJs will be used in the production environment,
